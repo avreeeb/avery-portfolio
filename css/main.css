@@ -33,4 +33,32 @@ text-size-adjust: 100%;
     margin-right: auto; 
 }
 
+.white {
+	color:#FFFFFF;
+	margin: 0;
+}
+
+
+.billboard {
+margin: inherit;
+background-image: url(../images/zombie.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center;
+background-color: none;
+overflow: hidden;
+position: relative;
+height: 40rem;
+width: 100%;
+
+}
+
+.billboard-inside {
+background-color: rgba(0,0,0,0.5);
+position: absolute;
+bottom: 3%;
+margin: 0 auto;
+width: 100%;
+}
+
 
