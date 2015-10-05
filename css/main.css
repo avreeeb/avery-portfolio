@@ -6,7 +6,7 @@
 
 html {
 box-sizing: border-box;
-background-color: ;
+background-color: #a9dfdf;
 
 -moz-text-size-adjust: 100%;
 -ms-text-size-adjust: 100%;
@@ -25,6 +25,12 @@ text-size-adjust: 100%;
 
 .ruda {
 	font-family: 'Ruda', sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 
