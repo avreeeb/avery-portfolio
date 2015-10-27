@@ -6,7 +6,7 @@
 	<rect y="0" fill="#ACB8BF" width="1272.6" height="564"/>
 	<g id="h1R3OK.tif">
 		
-			<image overflow="visible" width="1024" height="739" id="Layer_0_2_" xlink:href="CB9884D0F9471F93.png"  transform="matrix(0.3115 0 0 0.3115 -935 -270.1187)">
+			<image overflow="visible" width="1024" height="739" id="Layer_0_2_" xlink:href="CB9884D0F9471F96.png"  transform="matrix(0.3115 0 0 0.3115 -935 -270.1187)">
 		</image>
 	</g>
 </g>
@@ -282,37 +282,35 @@
 		<line fill="none" stroke="#000000" stroke-width="0.7" stroke-miterlimit="10" x1="1054.5" y1="438.2" x2="1104.4" y2="438.2"/>
 		<line fill="none" stroke="#000000" stroke-width="0.7" stroke-miterlimit="10" x1="1054.5" y1="426.6" x2="1104.4" y2="426.6"/>
 	</g>
-	<g>
-		<g id="Iphone_bg">
-			<g>
-				<path fill="#FFFFFF" d="M767,308h-2.6c-0.2-0.4-0.6-0.7-1.1-0.7h-15.1c-0.5,0-0.9,0.3-1.1,0.7h-52.6c-7.2,0-13,5.8-13,13v16.3
-					c-0.5,0.2-0.8,0.7-0.8,1.2v6.9c0,0.5,0.3,1,0.8,1.2v10.2c-0.5,0.2-0.8,0.7-0.8,1.2v5.2c0,0.5,0.3,1,0.8,1.2v9.5
-					c-0.5,0.2-0.8,0.7-0.8,1.2v5.2c0,0.5,0.3,1,0.8,1.2v121.1c0,7.2,5.8,13,13,13H767c7.2,0,13-5.8,13-13V321
-					C780,313.8,774.2,308,767,308z"/>
-			</g>
+	<g id="Iphone_bg">
+		<g>
+			<path fill="#FFFFFF" d="M767,308h-2.6c-0.2-0.4-0.6-0.7-1.1-0.7h-15.1c-0.5,0-0.9,0.3-1.1,0.7h-52.6c-7.2,0-13,5.8-13,13v16.3
+				c-0.5,0.2-0.8,0.7-0.8,1.2v6.9c0,0.5,0.3,1,0.8,1.2v10.2c-0.5,0.2-0.8,0.7-0.8,1.2v5.2c0,0.5,0.3,1,0.8,1.2v9.5
+				c-0.5,0.2-0.8,0.7-0.8,1.2v5.2c0,0.5,0.3,1,0.8,1.2v121.1c0,7.2,5.8,13,13,13H767c7.2,0,13-5.8,13-13V321
+				C780,313.8,774.2,308,767,308z"/>
 		</g>
-		
-			<image overflow="visible" width="643" height="1140" id="Screen_xA0_Image_1_" xlink:href="CB9884D0F9471F91.png"  transform="matrix(0.13 0 0 0.13 689.5643 337.4802)">
-		</image>
-		<g id="btn">
-			<g>
-				<circle fill="#E7E7E7" cx="730.4" cy="500.7" r="9.3"/>
-			</g>
+	</g>
+	
+		<image overflow="visible" width="643" height="1140" id="Screen_xA0_Image_1_" xlink:href="CB9884D0F9471F95.png"  transform="matrix(0.13 0 0 0.13 689.5643 337.4802)">
+	</image>
+	<g id="btn">
+		<g>
+			<circle fill="#E7E7E7" cx="730.4" cy="500.7" r="9.3"/>
 		</g>
-		
-			<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471F97.png"  transform="matrix(0.13 0 0 0.13 726.7916 497.0244)">
-		</image>
-		
-			<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471F90.png"  transform="matrix(0.13 0 0 0.13 728.352 316.1556)">
-		</image>
-		
-			<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471F9E.png"  transform="matrix(0.13 0 0 0.13 729.2622 317.0658)">
-		</image>
-		<g id="Mic">
-			<g>
-				<path fill="#E7E7E7" d="M737.5,324.5h-14.3c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5h14.3c0.8,0,1.5-0.7,1.5-1.5
-					S738.3,324.5,737.5,324.5z"/>
-			</g>
+	</g>
+	
+		<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471F92.png"  transform="matrix(0.13 0 0 0.13 726.7916 497.0244)">
+	</image>
+	
+		<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471F9D.png"  transform="matrix(0.13 0 0 0.13 728.352 316.1556)">
+	</image>
+	
+		<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471F9F.png"  transform="matrix(0.13 0 0 0.13 729.2622 317.0658)">
+	</image>
+	<g id="Mic">
+		<g>
+			<path fill="#E7E7E7" d="M737.5,324.5h-14.3c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5h14.3c0.8,0,1.5-0.7,1.5-1.5
+				S738.3,324.5,737.5,324.5z"/>
 		</g>
 	</g>
 	<g>

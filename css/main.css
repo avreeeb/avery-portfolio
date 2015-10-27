@@ -13,7 +13,6 @@ background-color: #a9dfdf;
 -webkit-text-size-adjust: 100%;
 text-size-adjust: 100%;
 }
-}
 
 *, *::before, *::after {
 	box-sizing: inherit;
@@ -27,11 +26,6 @@ text-size-adjust: 100%;
 	font-family: 'Ruda', sans-serif;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-}
 
 .white {
 	color:#FFFFFF;
@@ -61,7 +55,7 @@ background-position:center;
 background-color: none;
 overflow: hidden;
 position: relative;
-height: 40rem;
+height: 25rem;
 width: 100%;
 
 }
