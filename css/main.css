@@ -18,6 +18,10 @@ text-size-adjust: 100%;
 	box-sizing: inherit;
 }
 
+.masthead {
+overflow: hidden;
+}
+
 .nav {
 	list-style-type: none;
 	padding: 0;
@@ -110,3 +114,26 @@ width: 100%;
 	text-align:center;
 	margin:0;
 }
+
+@media only screen and (min-width: 40em) {
+	
+	.logo {
+		width:10%;
+		position:absolute;
+		top:0px;
+		float:left;
+		margin:0;
+		padding-top:1em;
+		padding-left:1em;
+		padding-bottom:3em;
+	}
+	
+	.nav a {
+		float:right;
+		margin-left:1em;
+		padding-top:1em;
+		padding-bottom:3em;
+		background-color:#none;
+		margin-top:0;
+	}
+	
