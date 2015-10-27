@@ -32,22 +32,8 @@ text-size-adjust: 100%;
 	margin: 0;
 }
 
-
 .billboard {
-margin: inherit;
-background-image: url(../images/nature.jpg);
-background-size: cover;
-background-repeat: no-repeat;
-background-position:center;
-background-color: none;
-overflow: hidden;
-position: relative;
-height: 40rem;
-width: 100%;
-}
-
-.billboard {
-margin: inherit;
+margin: 0;
 background-image: url(../images/banner.svg);
 background-size: cover;
 background-repeat: no-repeat;

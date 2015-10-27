@@ -6,7 +6,7 @@
 	<rect y="0" fill="#ACB8BF" width="1272.6" height="564"/>
 	<g id="h1R3OK.tif">
 		
-			<image overflow="visible" width="1024" height="739" id="Layer_0_2_" xlink:href="CB9884D0F9471F96.png"  transform="matrix(0.3115 0 0 0.3115 -935 -270.1187)">
+			<image overflow="visible" width="1024" height="739" id="Layer_0_2_" xlink:href="CB9884D0F9471F94.png"  transform="matrix(0.3115 0 0 0.3115 -935 -270.1187)">
 		</image>
 	</g>
 </g>
@@ -290,22 +290,19 @@
 				C780,313.8,774.2,308,767,308z"/>
 		</g>
 	</g>
-	
-		<image overflow="visible" width="643" height="1140" id="Screen_xA0_Image_1_" xlink:href="CB9884D0F9471F95.png"  transform="matrix(0.13 0 0 0.13 689.5643 337.4802)">
-	</image>
 	<g id="btn">
 		<g>
 			<circle fill="#E7E7E7" cx="730.4" cy="500.7" r="9.3"/>
 		</g>
 	</g>
 	
-		<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471F92.png"  transform="matrix(0.13 0 0 0.13 726.7916 497.0244)">
+		<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471F9B.png"  transform="matrix(0.13 0 0 0.13 726.7916 497.0244)">
 	</image>
 	
-		<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471F9D.png"  transform="matrix(0.13 0 0 0.13 728.352 316.1556)">
+		<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471F9C.png"  transform="matrix(0.13 0 0 0.13 728.352 316.1556)">
 	</image>
 	
-		<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471F9F.png"  transform="matrix(0.13 0 0 0.13 729.2622 317.0658)">
+		<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471F99.png"  transform="matrix(0.13 0 0 0.13 729.2622 317.0658)">
 	</image>
 	<g id="Mic">
 		<g>
@@ -325,5 +322,6 @@
 		<polygon fill="#454B4F" points="839.1,319.7 843.1,306.8 843.3,307.6 843.3,319.7 		"/>
 		<polygon fill="#5C6266" points="843.3,319.7 843.3,307.6 847.2,319.7 		"/>
 	</g>
+	<rect x="689.6" y="335.1" fill="#353535" width="83.6" height="148.2"/>
 </g>
 </svg>
