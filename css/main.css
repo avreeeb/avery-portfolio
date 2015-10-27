@@ -18,6 +18,10 @@ text-size-adjust: 100%;
 	box-sizing: inherit;
 }
 
+body {
+	margin: 0;
+}
+
 .oswald {
 	font-family: 'Oswald', sans-serif;
 }
@@ -33,7 +37,7 @@ text-size-adjust: 100%;
 }
 
 .billboard {
-margin: 0;
+margin: 0 0 1.5rem;
 background-image: url(../images/banner.svg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -54,7 +58,9 @@ margin: 0 auto;
 width: 100%;
 }
 
-
+.contact ul{
+	padding:0;
+}
 .contact ul li{
 	display:inline-block;
 	max-width:40px !important;
