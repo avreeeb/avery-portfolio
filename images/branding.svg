@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 586.2" enable-background="new 0 0 612 586.2" xml:space="preserve">
+<g>
+	<circle fill="#3E4C4C" cx="306.9" cy="301" r="249.6"/>
+	<g>
+		<polyline fill="#F1F2F2" points="424.3,202.8 424.3,425.6 222.9,425.6 222.9,147.8 370.6,147.8 		"/>
+		<polygon fill="#D1D3D4" points="370.6,202.8 424.3,202.8 370.6,147.8 		"/>
+		<rect x="241" y="190.7" fill="#414042" width="56.3" height="4.1"/>
+		<rect x="241" y="199.9" fill="#414042" width="56.3" height="4.1"/>
+		<circle fill="#00B0B0" cx="245.7" cy="176.4" r="6.3"/>
+		<circle fill="#D86866" cx="269.2" cy="176.4" r="6.3"/>
+		<circle fill="#FECB65" cx="290.8" cy="176.4" r="6.3"/>
+	</g>
+	<g>
+		<rect x="370.6" y="233.1" fill="#E6E7E8" width="98.6" height="62"/>
+		<circle fill="#00B0B0" cx="383.1" cy="249.2" r="5"/>
+		<circle fill="#D86866" cx="401.7" cy="249.2" r="5"/>
+		<circle fill="#FECB65" cx="418.9" cy="249.2" r="5"/>
+		<rect x="378.1" y="262.7" fill="#414042" width="50.5" height="3"/>
+		<rect x="378.1" y="271.2" fill="#414042" width="69.8" height="3"/>
+		<rect x="378.1" y="279.6" fill="#414042" width="50.5" height="3"/>
+	</g>
+	<g>
+		<polygon fill="#414042" points="293,454.7 222.9,454.7 222.9,416.2 280.7,416.2 		"/>
+		<polygon fill="#212121" points="222.9,416.2 222.9,454.7 152.7,454.7 165.4,416.2 		"/>
+		<rect x="158" y="454.7" fill="#414042" width="64.9" height="8.5"/>
+		<rect x="222.9" y="454.7" fill="#58595B" width="66.3" height="8.5"/>
+		<rect x="191.2" y="403.5" fill="#414042" width="31.7" height="12.7"/>
+		<rect x="222.9" y="403.5" fill="#58595B" width="33.8" height="12.7"/>
+		<polygon fill="#414042" points="245.6,403.5 222.9,403.5 222.9,390.5 237.3,390.5 		"/>
+		<polygon fill="#212121" points="222.9,390.5 222.9,403.5 201.9,403.5 209.8,390.5 		"/>
+		<path fill="#D86866" d="M254.9,275.5c0,1.1,0,2.2-0.2,3.3l0,0.2l-1.7,7.2l-18.7,80.3v24h-11.4V244.1c0.2,0,0.3,0,0.5,0
+			C240.8,244,254.9,258.1,254.9,275.5z"/>
+		<path fill="#D15C56" d="M222.9,244.1v146.4h-10.4v-24l-18.6-80.4l-1.7-7.2l0-0.2c-0.1-1.1-0.2-2.2-0.2-3.3
+			C192,258.3,205.8,244.3,222.9,244.1z"/>
+	</g>
+</g>
+</svg>
