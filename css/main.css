@@ -18,6 +18,25 @@ text-size-adjust: 100%;
 	box-sizing: inherit;
 }
 
+header {
+    background-color: rgba(30, 39, 62, 0.75);
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
+
+.nav-top {
+	overflow:hidden;
+	max-height: 0;
+}
+
+
+.nav {
+    width: 100%;
+    text-align: center;
+    letter-spacing: 0.10em;
+}
+
 
 .logo-wrapper {
     margin: 0;
@@ -54,17 +73,6 @@ text-size-adjust: 100%;
 img {
     display: block;
     margin: 0 auto;
-}
-
-.nav-top {
-    max-height: 0;
-    overflow: hidden;
-}
-
-.nav {
-    width: 100%;
-    text-align: center;
-    letter-spacing: 0.15em;
 }
 
 .masthead {
@@ -145,7 +153,44 @@ width: 100%;
 	margin-left:auto; 
 	margin-right:auto;
 }
+
+@media only screen and (min-width: 35em) {
 	
+.nav-top {
+   width: auto;
+   float: right;
+   max-height: none;
+   padding-top: 0.5rem;
+   margin-right: 3%;
+   display: inline;
+}
+
+.nav {
+    text-align: center;
+    float: right;
+    position: inherit;
+    display: inline;
+    right: 2%;
+}
+
+
+.logo {
+	width: 100%;
+	max-width::20rem;
+}
+
+header {
+    overflow: auto;
+}
+
+h1 {
+    width: auto;
+    margin-left: 5%;
+}
+	
+.nav-btn, .nav-btn:link, .nav-btn:visited {
+    display: none;
+}
 
 
 	
