@@ -99,3 +99,18 @@ width: 100%;
 	margin-right:auto;
 }
 
+.logo {
+	max-width:100px;
+	float:left;
+}
+
+.menu {
+	float:right;
+	width:200px;
+}
+
+.menu ul li {
+	text-decoration:none;
+	list-style:none;
+}
+
