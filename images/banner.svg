@@ -193,7 +193,7 @@
 			</g>
 		</g>
 		
-			<image overflow="visible" width="643" height="1140" id="Screen_xA0_Image_1_" xlink:href="CB9884D0F9471F93.png"  transform="matrix(0.112 0 0 0.112 648.1042 353.7081)">
+			<image overflow="visible" width="643" height="1140" id="Screen_xA0_Image_1_" xlink:href="CB9884D0F9471F96.png"  transform="matrix(0.112 0 0 0.112 648.1042 353.7081)">
 		</image>
 		<g id="btn">
 			<g>
@@ -201,13 +201,13 @@
 			</g>
 		</g>
 		
-			<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471F91.png"  transform="matrix(0.112 0 0 0.112 680.1684 491.1242)">
+			<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471F95.png"  transform="matrix(0.112 0 0 0.112 680.1684 491.1242)">
 		</image>
 		
-			<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471F97.png"  transform="matrix(0.112 0 0 0.112 681.5123 335.3411)">
+			<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471F92.png"  transform="matrix(0.112 0 0 0.112 681.5123 335.3411)">
 		</image>
 		
-			<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471F90.png"  transform="matrix(0.112 0 0 0.112 682.2963 336.1251)">
+			<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471F9D.png"  transform="matrix(0.112 0 0 0.112 682.2963 336.1251)">
 		</image>
 		<g id="Mic">
 			<g>
@@ -257,5 +257,6 @@
 		<polygon fill="#2D2D2D" points="670.1,75.6 684.4,75.6 684.4,83.1 672.8,83.1 		"/>
 		<polygon fill="#231F20" points="672.8,83.1 684.4,83.1 684.4,90.7 675.4,90.7 		"/>
 	</g>
+	<rect x="648.1" y="353.7" fill="#262626" width="72" height="127.7"/>
 </g>
 </svg>
