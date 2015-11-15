@@ -112,5 +112,7 @@ width: 100%;
 .menu ul li {
 	text-decoration:none;
 	list-style:none;
+	display:inline-block;
+	width:50px;
 }
 
