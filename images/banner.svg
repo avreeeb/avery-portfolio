@@ -92,7 +92,7 @@
 	<g>
 		<ellipse fill="#FFFFFF" cx="513.9" cy="417.3" rx="112.9" ry="113.6"/>
 		<ellipse fill="#F5F5F9" cx="513.9" cy="417.3" rx="104.5" ry="105.2"/>
-		<ellipse fill="#934E1B" cx="513.9" cy="417.3" rx="102.7" ry="103.4"/>
+		<ellipse fill="#9D6449" cx="513.9" cy="417.3" rx="102.7" ry="103.4"/>
 		<path fill="#6DA429" d="M464.9,304.2c0,0,20.9,1.7,21.8,15.7s-8.4,51.7-8.4,51.7L460,348.5C460,348.5,448.5,318.5,464.9,304.2z"/>
 		<path fill="#6DA429" d="M398.7,450.4c0,0-0.3-14.9,16-23.6c16.3-8.7,29,16.2,29,16.2l-15,20.4
 			C428.7,463.4,411.4,465.7,398.7,450.4z"/>
@@ -235,7 +235,7 @@
 				</g>
 			</g>
 			
-				<image overflow="visible" width="643" height="1140" id="Screen_xA0_Image_1_" xlink:href="CB9884D0F9471FC0.png"  transform="matrix(0.117 0 0 0.117 886.4153 592.296)">
+				<image overflow="visible" width="643" height="1140" id="Screen_xA0_Image_1_" xlink:href="CB9884D0F9471FF2.png"  transform="matrix(0.117 0 0 0.117 886.4153 592.296)">
 			</image>
 			<g id="btn">
 				<g>
@@ -243,13 +243,13 @@
 				</g>
 			</g>
 			
-				<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471FC1.png"  transform="matrix(0.117 0 0 0.117 919.9014 735.8063)">
+				<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_2_" xlink:href="CB9884D0F9471FF3.png"  transform="matrix(0.117 0 0 0.117 919.9014 735.8063)">
 			</image>
 			
-				<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471FCC.png"  transform="matrix(0.117 0 0 0.117 921.3049 573.1145)">
+				<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_5_" xlink:href="CB9884D0F9471FF0.png"  transform="matrix(0.117 0 0 0.117 921.3049 573.1145)">
 			</image>
 			
-				<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471FCD.png"  transform="matrix(0.117 0 0 0.117 922.1237 573.9332)">
+				<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_4_" xlink:href="CB9884D0F9471FF1.png"  transform="matrix(0.117 0 0 0.117 922.1237 573.9332)">
 			</image>
 			<g id="Mic">
 				<g>
@@ -270,13 +270,13 @@
 			</g>
 		</g>
 		
-			<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_1_" xlink:href="CB9884D0F9471FCE.png"  transform="matrix(0.1143 0 0 0.1143 145.872 862.9562)">
+			<image overflow="visible" width="54" height="54" id="home_btn_xA0_Image_1_" xlink:href="CB9884D0F9471FFE.png"  transform="matrix(0.1143 0 0 0.1143 145.872 862.9562)">
 		</image>
 		
-			<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_2_" xlink:href="CB9884D0F9471FCF.png"  transform="matrix(0.1143 0 0 0.1143 147.3218 590.2228)">
+			<image overflow="visible" width="31" height="31" id="Camera_xA0_Image_2_" xlink:href="CB9884D0F9471FFF.png"  transform="matrix(0.1143 0 0 0.1143 147.3218 590.2228)">
 		</image>
 		
-			<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_1_" xlink:href="CB9884D0F9471FC9.png"  transform="matrix(0.1143 0 0 0.1143 148.1218 591.0228)">
+			<image overflow="visible" width="17" height="17" id="Camera_xA0_Image_1_" xlink:href="CB9884D0F9471FF9.png"  transform="matrix(0.1143 0 0 0.1143 148.1218 591.0228)">
 		</image>
 	</g>
 	<g>
@@ -410,7 +410,7 @@
 		<rect x="744.7" y="648.8" fill="#6E8386" width="2" height="16.4"/>
 		<rect x="749.1" y="648.8" fill="#6E8386" width="2" height="16.4"/>
 		<rect x="753.9" y="648.8" fill="#6E8386" width="2" height="16.4"/>
-		<rect x="758" y="648.8" fill="#6E8386" width="2" height="16.4"/>
+		<rect x="758.3" y="648.8" fill="#6E8386" width="1.7" height="16.4"/>
 		<path fill="#414141" d="M756.3,736.9H648.8c-5.5,0-10-4.5-10-10v-37.4c0-5.5,4.5-10,10-10h107.5c5.5,0,10,4.5,10,10v37.4
 			C766.3,732.4,761.8,736.9,756.3,736.9z"/>
 		<rect x="646.1" y="736.9" width="111.9" height="5.4"/>
@@ -442,8 +442,8 @@
 			S654,832.9,640.8,832.9z"/>
 		<rect x="657.2" y="806.3" fill="#4C4C4C" width="5.3" height="4"/>
 		<circle fill="#4C4C4C" cx="641.3" cy="809.9" r="9.1"/>
-		<path fill="#E4E4E4" d="M703.6,850.7c0,1.6-1,2.9-2.3,3.5v12.5h-2.8v-12.5c-1.4-0.5-2.4-1.9-2.4-3.5c0-2.1,1.7-3.8,3.8-3.8
-			S703.6,848.6,703.6,850.7z"/>
+		<path fill="#E4E4E4" d="M703.2,851.3c0,1.4-0.9,2.6-2.1,3.1v11.2h-2.5v-11.1c-1.3-0.5-2.2-1.7-2.2-3.1c0-1.8,1.5-3.3,3.3-3.3
+			S703.2,849.5,703.2,851.3z"/>
 		<polygon fill="#E4E4E4" points="682.5,865.6 693.8,865.6 693.8,842.8 706,842.8 706,865.6 717.4,865.6 717.4,837.6 682.5,837.6 		
 			"/>
 		<rect x="731.4" y="842.7" fill="#E4E4E4" width="10.1" height="4.4"/>
