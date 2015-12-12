@@ -43,6 +43,10 @@ font-family: 'Raleway', sans-serif;
 	margin: 0;
 }
 
+.white-background {
+	background-color:#ffffff;
+} 
+
 .banner {
 margin: 0 0 .5rem;
 background-image: url(../images/banner.svg);
