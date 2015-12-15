@@ -18,6 +18,18 @@ text-size-adjust: 100%;
 	box-sizing: inherit;
 }
 
+.button2 {
+font-size: 1.6em;
+font-family: sans-serif;
+color: #FFF;
+cursor: pointer;
+width: 180px;
+height: 70px;
+text-align: center;
+border: 2px solid #FFF;
+background: rgba(230, 207, 207, 0) none repeat scroll 0% 0%;
+}
+
 
 .masthead {
 overflow: hidden;
