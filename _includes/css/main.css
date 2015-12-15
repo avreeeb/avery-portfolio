@@ -18,6 +18,11 @@ text-size-adjust: 100%;
 	box-sizing: inherit;
 }
 
+a {
+font-family: 'Raleway', sans-serif;
+color:#FFFFFF;
+margin: 0;
+}
 
 .masthead {
 overflow: hidden;
