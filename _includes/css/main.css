@@ -18,6 +18,10 @@ text-size-adjust: 100%;
 	box-sizing: inherit;
 }
 
+img {
+display: block
+}
+
 a {
 font-family: 'Raleway', sans-serif;
 color:#FFFFFF;
